@@ -67,4 +67,4 @@ Key Performance Indicators are quantifiable measures used to evaluate the succes
   Error Rate measures the frequency of errors made by agents during calls, such as providing incorrect information or failing to follow proper protocols. It highlights areas for training and development to improve agent performance and ensure accurate and effective customer service delivery.
 
 
-![]()
+![](https://github.com/harishramu17/QMS-for-Airline-Call-Center/blob/main/Images/043afa3ad106b8ca83ea44b21036d2f9.gif)
