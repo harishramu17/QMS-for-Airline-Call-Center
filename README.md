@@ -8,11 +8,8 @@ Our main aims include:
 - Using the Lyzr AI API to reliably and efficiently transcribe audio files.
 - Transcriptions are analyzed to provide Key Performance Indicators (KPIs) for evaluating call quality and agent performance.
 
-============================================================================================
+> ![](https://github.com/harishramu17/QMS-for-Airline-Call-Center/blob/main/Images/nx59dhUZSz.gif)
 
-![](https://github.com/harishramu17/QMS-for-Airline-Call-Center/blob/main/Images/nx59dhUZSz.gif)
-
-============================================================================================
 
 ## Step-by-Step Implementation 
 To achieve these objectives, we've outlined a step-by-step implementation guide:
